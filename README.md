@@ -4,6 +4,19 @@ Dashboard integral en Power BI que analiza el comportamiento comercial,
 nutricional y logístico de Coca-Cola y sus marcas en el mercado de
 Estados Unidos, sobre un dataset de ~4.500 registros y 20 variables.
 
+---
+
+## 📊 Dashboard Interactivo
+
+<p align="center">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiYmJkZmE5NjEtZjA4OS00ZjVlLTljYTAtZTg3NmU4M2JhOGViIiwidCI6IjViMGFiY2EyLWUwYjYtNGYwYS1iODc4LWE3YmM1Mjg4M2NhMCIsImMiOjR9" target="_blank">
+    <img src="https://img.shields.io/badge/ACCEDER_AL_DASHBOARD_INTERACTIVO-EA3D2F?style=for-the-badge&logo=microsoftpowerbi&logoColor=white" alt="Ver Dashboard Coca-Cola" />
+  </a>
+</p>
+
+
+---
+
 ## 🎯 Objetivo
 
 Convertir el registro transaccional de ventas en un sistema de
